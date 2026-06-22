@@ -1,4 +1,7 @@
 <h1 align="center">Hi there, I'm Hashi 👋</h1>
+<div align="center">
+  <img src="hashi.png" alt="Hashi Banner" width="100%" />
+</div>
 <h3 align="center">Web & App Developer | 3rd-year IT Student</h3>
 
 <p align="center">
