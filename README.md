@@ -36,14 +36,6 @@
 
 ---
 
-### 🚀 Highlighted Projects
-
-* **Coffee Shop Management System:** A comprehensive web-based application utilizing Java and MySQL to manage cafe operations, from backend data processing to frontend user interfaces.
-* **AI Internship Matching Platform:** An intelligent matching system integrating NLP algorithms (TF-IDF & Cosine Similarity) to connect students with optimal internship opportunities based on their specific skill sets.
-* **Transparent Books & Art Viewer:** A custom Java-based desktop application designed for an optimized, transparent ebook and artwork viewing experience.
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
